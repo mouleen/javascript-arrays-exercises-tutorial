@@ -3,7 +3,7 @@ function sumTheElements(theArray) {
 	// Your code here
 
 	/* Resolucion : Opcion 1
-	theArray.forEach((item) => { 
+	//theArray.forEach((item) => { 
 		//console.log(a,b);
 		total = total + item;
 	});
