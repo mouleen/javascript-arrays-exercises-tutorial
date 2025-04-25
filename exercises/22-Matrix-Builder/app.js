@@ -10,6 +10,5 @@ const matrixBuilder=(size)=>{
     return arr;
 }
 
-
 // Do not change anything from this line down
-console.log(matrixBuilder(5))
+console.log(matrixBuilder(5));
